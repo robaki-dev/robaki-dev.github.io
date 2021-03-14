@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robak</title>
+    <link>http://robaki.dev/</link>
+    <description>Recent content on Robak</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-PL</language>
+    <lastBuildDate>Mon, 15 Feb 2021 12:36:48 +0100</lastBuildDate><atom:link href="http://robaki.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Printer</title>
+      <link>http://robaki.dev/printer/</link>
+      <pubDate>Thu, 11 Mar 2021 20:21:41 +0100</pubDate>
+      
+      <guid>http://robaki.dev/printer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Make</title>
+      <link>http://robaki.dev/make/</link>
+      <pubDate>Thu, 11 Mar 2021 18:20:54 +0100</pubDate>
+      
+      <guid>http://robaki.dev/make/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>parts</title>
+      <link>http://robaki.dev/parts/</link>
+      <pubDate>Mon, 22 Feb 2021 13:36:34 +0100</pubDate>
+      
+      <guid>http://robaki.dev/parts/</guid>
+      <description>    name quantity     motor queen hobby 1   esc no name 80A 1   receiver FS-GR3E 1   transmiter FS-GT3B 1   servo MG 995 1   battery 2S 5000mAh 1   wheels 128x65mm 4   shocks INJORA 100mm 4   diffs HSP 02024 2   front gear HSP 02030 1   rear gear HSP 3015 1   cvd HSP 188015 4   wheel hex HSP 08065 4   cups HSP 02016 2   turnbuckles HSP 06016 2    HSP 08042 1   drive shaft HSP 04003 1   spur gear HSP 11184 1   motor gear HSP 11181 1   bearings 5x10x4 4    10x15x4 8    12x5x4 2   ball joint rod ends 10   M3 rod  1   ball head screw  4    </description>
+    </item>
+    
+  </channel>
+</rss>
