@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Robak</title>
-    <link>http://robaki.dev/tags/</link>
+    <link>https://robaki.dev/tags/</link>
     <description>Recent content in Tags on Robak</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pl-PL</language><atom:link href="http://robaki.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>pl-PL</language><atom:link href="https://robaki.dev/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
